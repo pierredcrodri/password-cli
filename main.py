@@ -70,6 +70,3 @@ def see(alias: str):
 
 if __name__ == "__main__":
     app()
-
-# print("Nefertari's Password Utility")
-# print("Use the \"help\" command if you want to know how to use this CLI.")
